@@ -1,0 +1,5 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj",
+".\Objects\delay.obj" 
+TO ".\Objects\switch" 
+PRINT(".\Listings\switch.m51") RAMSIZE(256) 
